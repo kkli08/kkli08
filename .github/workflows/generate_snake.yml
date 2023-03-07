@@ -29,3 +29,8 @@ jobs:
           svg_out_path: 
             ./dist/github-contribution-grid-snake.svg
             ./dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+       - name: Push to GitHub 
+        uses: EndBug/add-and-commit@v7.2.1 
+        with: 
+          branch: main 
+          message: 'Generate Contribution Snake'
