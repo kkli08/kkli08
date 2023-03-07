@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=kkli08" alt="kkli08" /></a> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/kkli08/kkli08/main/assets/github-contribution-grid-snake.svg" alt="kkli08" /></a> </p>
 
 - 📫 How to reach me **kegrad2023@gmail.com**
 
