@@ -28,8 +28,8 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           svg_out_path: 
             ./dist/github-contribution-grid-snake.svg
-      #  - name: Push to GitHub 
-      #   uses: EndBug/add-and-commit@v7.2.1 
-      #   with: 
-      #     branch: main 
-      #     message: 'Generate Contribution Snake'
+      - name: Push-to-GitHub 
+        uses: EndBug/add-and-commit@v7.2.1 
+        with: 
+          branch: main 
+          message: 'Generate Contribution Snake'
