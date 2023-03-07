@@ -1,3 +1,4 @@
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kkli08" alt="kkli08" /></a> </p>
 - 👯 I’m collaborating on [vocabulary-explorer](https://ualberta-cmput401.github.io/vocabulary-explorer/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/kkli08](https://github.com/kkli08)
@@ -16,8 +17,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kkli08&show_icons=true&locale=en" alt="kkli08" />
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kkli08&" alt="kkli08" />
 </p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kkli08" alt="kkli08" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
