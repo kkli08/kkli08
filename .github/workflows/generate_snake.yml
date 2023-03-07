@@ -8,13 +8,13 @@ on:
   schedule:
     - cron: "0 */24 * * *" 
   
-  # allows to manually run the job at any time
-  workflow_dispatch:
-  
   # run on every push on the master branch
   push:
     branches:
-    - main
+      - main
+      
+  # allows to manually run the job at any time
+  workflow_dispatch:
     
   
 
@@ -25,8 +25,8 @@ jobs:
     
     steps:
       # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
-      - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v2
+      - name: generate-snake-game-from-github-contribution-grid
+        uses: Platane/snk@v2.2.1
         with:
           github_user_name: ${{ github.kkli08 }}
           outputs: |
