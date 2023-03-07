@@ -1,7 +1,4 @@
-<h2 align="center">Hi 👋, I'm Damian</h2>
-<h3 align="center">A passionate full stack developer in Canada</h3>
-
-- 👯 I’m looking to collaborate on [vocabulary-explorer](https://ualberta-cmput401.github.io/vocabulary-explorer/)
+- 👯 I’m collaborating on [vocabulary-explorer](https://ualberta-cmput401.github.io/vocabulary-explorer/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/kkli08](https://github.com/kkli08)
 
@@ -9,7 +6,7 @@
 
 - 📫 How to reach me **kegrad2023@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/116nR3YEpmH6WjdFmZhfenDWOa3BSU5zfk-6fIcHCUY8/edit?usp=sharing](https://docs.google.com/document/d/116nR3YEpmH6WjdFmZhfenDWOa3BSU5zfk-6fIcHCUY8/edit?usp=sharing)
+- 📄 Know about my experiences [resume](https://docs.google.com/document/d/116nR3YEpmH6WjdFmZhfenDWOa3BSU5zfk-6fIcHCUY8/edit?usp=sharing)
 
 - ⚡ Fun fact **I love Audi RS7**
 
