@@ -1,9 +1,5 @@
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=kkli08" alt="kkli08" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/kkli08](https://github.com/kkli08)
-
-- 💬 Ask me about **d3, react ,django and spring**
-
 - 📫 How to reach me **kegrad2023@gmail.com**
 
 - 📄 Know about my experiences [resume](https://docs.google.com/document/d/116nR3YEpmH6WjdFmZhfenDWOa3BSU5zfk-6fIcHCUY8/edit?usp=sharing)
