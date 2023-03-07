@@ -3,7 +3,8 @@ name: Generate Snake
 on: 
   watch: 
     types: started 
-    schedule: - cron: '0 0 * * *' 
+    schedule: 
+      - cron: '0 0 * * *' 
 jobs: 
   build: 
     runs-on: ubuntu-latest 
@@ -18,7 +19,7 @@ jobs:
           gif_out_path: ./assets/github-contribution-grid-snake.gif 
           svg_out_path: ./assets/github-contribution-grid-snake.svg 
        - name: Push to GitHub 
-         uses: EndBug/add-and-commit@v7.2.1 
+        uses: EndBug/add-and-commit@v7.2.1 
         with: 
           branch: main 
           message: 'Generate Contribution Snake'
