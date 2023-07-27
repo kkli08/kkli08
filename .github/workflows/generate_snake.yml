@@ -2,6 +2,7 @@ name: generate animation
 
 on:
   # run automatically every 24 hours
+  # bug appears?
   schedule:
     - cron: "0 */24 * * *" 
   
