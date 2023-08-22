@@ -2,7 +2,7 @@
 
 - 📫 How to reach me **kegrad2023@gmail.com**
 
-- 📄 Know about my experiences [resume](https://docs.google.com/document/d/116nR3YEpmH6WjdFmZhfenDWOa3BSU5zfk-6fIcHCUY8/edit?usp=sharing)
+- 📄 Know about my experiences [resume](https://docs.google.com/document/d/1xcIoL5hEX5o_eY33-ZVvQRRbJo1rMi_KgaKJLIRZkus/edit?usp=sharing)
 
 
 
@@ -14,8 +14,6 @@
 <div align="center">
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=kkli08&theme=cobalt" />
 </div>
-
-[![Damian's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=kkli08)](https://github.com/kkli08/github-readme-activity-graph)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
