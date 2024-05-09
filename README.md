@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **kegrad2023@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1WjlfiZjDWeRdZ2PVqNeNgeyfSW4CiLtlQr9keSAUFOc/edit?usp=sharing)
+- 📄 Know about my experiences [Resume](https://www.damianli.com/resume.pdf)
 
 
 <div align="center">
