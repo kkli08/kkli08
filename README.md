@@ -4,10 +4,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kkli08/kkli08/output/github-contribution-grid-snake.svg">
 </picture>
 
-- 📫 How to reach me **kegrad2023@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://www.damianli.com/resume.pdf)
-
 
 <div align="center">
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=kkli08&theme=cobalt" />
