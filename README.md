@@ -8,3 +8,17 @@
 <div align="center">
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=kkli08&theme=cobalt" />
 </div>
+
+<br/>
+<br/>
+<br/>
+
+[TextBook](https://drive.google.com/drive/folders/16sLnlkzF8Wa5fv7CgHmrbmoSuMEIn2km?usp=sharing)<br/>
+Including:<br/>
+--> Parallel Computing<br/>
+--> OpenMP<br/>
+--> GPU Programming<br/>
+--> Database<br/>
+--> CUDA <br/>
+--> Compiler<br/>
+--> Cpp<br/>
