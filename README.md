@@ -12,13 +12,3 @@
 <br/>
 <br/>
 <br/>
-
-[TextBook](https://drive.google.com/drive/folders/16sLnlkzF8Wa5fv7CgHmrbmoSuMEIn2km?usp=sharing)<br/>
-Including:<br/>
-|__ Parallel Computing<br/>
-|__ OpenMP<br/>
-|__ GPU Programming<br/>
-|__ Database<br/>
-|__ CUDA <br/>
-|__ Compiler<br/>
-|__ Cpp<br/>
