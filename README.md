@@ -64,7 +64,7 @@ No Activity Tracked This Week
 **I Mostly Code in C** 
 
 ```text
-Assembly                 6 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
+C                 6 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
 Python                   5 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
 C++                      4 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
 JavaScript               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
