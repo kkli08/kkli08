@@ -6,7 +6,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-82%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-82%20hrs%2012%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -85,7 +85,7 @@ JavaScript               3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kkli08/kkli08/main/assets/bar_graph.png)
 
 
- Last Updated on 06/11/2024 22:08:57 UTC
+ Last Updated on 06/11/2024 22:11:05 UTC
 <!--END_SECTION:waka-->
 
 
