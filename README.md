@@ -6,11 +6,13 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-86%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-86%20hrs%206%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.1 MB Used in GitHub's Storage 
+ > 
+> 🏆 565 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -85,7 +87,7 @@ JavaScript               3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kkli08/kkli08/main/assets/bar_graph.png)
 
 
- Last Updated on 14/11/2024 18:46:27 UTC
+ Last Updated on 14/11/2024 18:48:12 UTC
 <!--END_SECTION:waka-->
 
 
