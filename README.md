@@ -12,8 +12,6 @@
 
 > 📦 1.1 MB Used in GitHub's Storage 
  > 
-> 🏆 565 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 33 Public Repositories 
@@ -87,7 +85,7 @@ JavaScript               3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kkli08/kkli08/main/assets/bar_graph.png)
 
 
- Last Updated on 15/11/2024 18:41:30 UTC
+ Last Updated on 15/11/2024 18:44:07 UTC
 <!--END_SECTION:waka-->
 
 
