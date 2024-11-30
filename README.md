@@ -12,8 +12,6 @@
 
 > 📦 1.1 MB Used in GitHub's Storage 
  > 
-> 🏆 584 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 35 Public Repositories 
@@ -83,7 +81,7 @@ Cuda                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kkli08/kkli08/main/assets/bar_graph.png)
 
 
- Last Updated on 30/11/2024 19:21:59 UTC
+ Last Updated on 30/11/2024 19:23:53 UTC
 <!--END_SECTION:waka-->
 
 
