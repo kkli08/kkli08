@@ -6,13 +6,11 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-109%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-110%20hrs%203%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.1 MB Used in GitHub's Storage 
- > 
-> 🏆 608 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -86,7 +84,7 @@ Cuda                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kkli08/kkli08/main/assets/bar_graph.png)
 
 
- Last Updated on 07/12/2024 19:04:00 UTC
+ Last Updated on 07/12/2024 19:05:56 UTC
 <!--END_SECTION:waka-->
 
 
