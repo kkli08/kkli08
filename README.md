@@ -45,17 +45,16 @@ Sunday                   920 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Toronto
 
 💬 Programming Languages: 
-JavaScript               11 mins             ████████████████░░░░░░░░░   63.10 % 
-CSS                      6 mins              █████████░░░░░░░░░░░░░░░░   36.90 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  18 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-PW                       18 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      18 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Makefile** 
@@ -75,7 +74,7 @@ Cuda                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kkli08/kkli08/main/assets/bar_graph.png)
 
 
- Last Updated on 22/07/2025 19:21:01 UTC
+ Last Updated on 23/07/2025 18:46:11 UTC
 <!--END_SECTION:waka-->
 
 
