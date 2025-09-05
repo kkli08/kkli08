@@ -6,7 +6,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-132%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-132%20hrs%2020%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -76,7 +76,7 @@ Cuda                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kkli08/kkli08/main/assets/bar_graph.png)
 
 
- Last Updated on 05/09/2025 18:43:58 UTC
+ Last Updated on 05/09/2025 18:46:26 UTC
 <!--END_SECTION:waka-->
 
 
