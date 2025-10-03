@@ -6,13 +6,11 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-134%20hrs%2021%20mins-blue)
-
 **🐱 My GitHub Data** 
 
 > 📦 1.2 MB Used in GitHub's Storage 
  > 
-> 🏆 14 Contributions in the Year 2025
+> 🏆 16 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -20,45 +18,6 @@
  > 
 > 🔑 4 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                47 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
-🌆 Daytime                59 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
-🌃 Evening                135 commits         ███████░░░░░░░░░░░░░░░░░░   29.22 % 
-🌙 Night                  221 commits         ████████████░░░░░░░░░░░░░   47.84 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   114 commits         ██████░░░░░░░░░░░░░░░░░░░   24.68 % 
-Tuesday                  64 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
-Wednesday                66 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Thursday                 76 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
-Friday                   85 commits          █████░░░░░░░░░░░░░░░░░░░░   18.40 % 
-Saturday                 32 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
-Sunday                   25 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Toronto
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Makefile** 
 
 ```text
@@ -76,7 +35,7 @@ Cuda                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kkli08/kkli08/main/assets/bar_graph.png)
 
 
- Last Updated on 02/10/2025 19:36:48 UTC
+ Last Updated on 03/10/2025 18:42:28 UTC
 <!--END_SECTION:waka-->
 
 
