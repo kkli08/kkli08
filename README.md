@@ -47,21 +47,16 @@ Sunday                   916 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Toronto
 
 💬 Programming Languages: 
-Jupyter                  2 hrs 7 mins        ███████████████████████░░   93.28 % 
-Python                   6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
-JSON-lines               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PyCharm                  2 hrs 12 mins       ████████████████████████░   96.98 % 
-VS Code                  4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-common-sense-reasoning   2 hrs 16 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      2 hrs 16 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Makefile** 
@@ -81,7 +76,7 @@ Cuda                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kkli08/kkli08/main/assets/bar_graph.png)
 
 
- Last Updated on 15/12/2025 19:37:30 UTC
+ Last Updated on 16/12/2025 18:47:49 UTC
 <!--END_SECTION:waka-->
 
 
