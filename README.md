@@ -13,19 +13,10 @@ makes them work.
 
 ## Current focus
 
-- RL post-training, reward design, and training diagnostics
-- Multi-token prediction, speculative decoding, and model state management
+- RL post-training
 - High-performance systems with C++, CUDA, and Rust
 
-## Selected work
-
-| Project | What it explores |
-| --- | --- |
-| [LLM Foundations Notes](https://github.com/kkli08/llm-foundations-notes) | A growing Chinese-language knowledge base on LLM training, RLVR, MTP, and inference. |
-| [VeloxDB](https://github.com/kkli08/VeloxDB) | A persistent C++ key-value store inspired by LevelDB and RocksDB, with an LSM-style storage design. |
-| [CUDA Watershed](https://github.com/kkli08/watershed_algorithm) | A CUDA implementation and performance study of the OpenCV watershed image-segmentation pipeline. |
 
 ## Elsewhere
 
 - [Personal website](https://www.damianli.com/)
-- [GitHub projects](https://github.com/kkli08?tab=repositories)
