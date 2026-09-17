@@ -3,7 +3,7 @@
 **LLM post-training · RLVR · GPU and systems engineering**
 
 I'm an engineer at **XPENG Robotics**, where I work on reinforcement learning
-with verifiable rewards (RLVR) for large language models. I hold an M.Eng. in
+with verifiable rewards (RLVR) Infrastructure for large language models. I hold an M.Eng. in
 Electrical and Computer Engineering from the **University of Toronto** and a
 B.A.Sc. in Computer Science from the **University of Alberta**.
 
@@ -13,7 +13,7 @@ makes them work.
 
 ## Current focus
 
-- RL post-training
+- Post-training Infra
 - High-performance systems with C++, CUDA, and Rust
 
 
